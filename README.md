@@ -20,7 +20,6 @@ I'm a developer with a knack for solving complex problems through code. Currentl
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BradleyG2004&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyG2004&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Public Repositories**: 38  
 - **Followers**: 1  
