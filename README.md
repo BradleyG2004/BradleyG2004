@@ -4,7 +4,7 @@ I'm **Bradley Paterson GANGNOU KANA**, a passionate developer based in **Paris, 
 
 ## About Me
 
-I'm a developer with a knack for solving complex problems through code. Currently, I work on diverse projects that challenge my skills and creativity. My bio: *1...2...3... 404*.
+I'm a developer with a knack for solving complex problems through code. Currently, I work on diverse projects that challenge my skills and creativity.
 
 ## Skills & Technologies
 
