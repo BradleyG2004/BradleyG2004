@@ -12,25 +12,11 @@ I'm a developer with a knack for solving complex problems through code. Currentl
 
 ## Top Projects
 
-- [**Tasker**](https://github.com/BradleyG2004/Tasker)  
-  A task management application built with TypeScript.  
-  ⭐ 0 Stars | 🍴 0 Forks | 🔧 0 Open Issues
-
-- [**KATIKA**](https://github.com/BradleyG2004/KATIKA)  
-  An application developed for co-subscribing to shared toilets.  
-  ⭐ 0 Stars | 🍴 0 Forks | 🔧 0 Open Issues
-
-- [**DocuWriter**](https://github.com/BradleyG2004/DocuWriter)  
-  A document writer application aimed at simplifying the writing process.  
-  ⭐ 0 Stars | 🍴 0 Forks | 🔧 0 Open Issues
-
-- [**MigrationCycle**](https://github.com/BradleyG2004/MigrationCycle)  
-  A helpful tool for managing migration processes.  
-  ⭐ 0 Stars | 🍴 0 Forks | 🔧 0 Open Issues
-
-- [**Companion_me**](https://github.com/BradleyG2004/Companion_me)  
-  A supportive app for users looking for companionship.  
-  ⭐ 0 Stars | 🍴 0 Forks | 🔧 0 Open Issues
+[![FConverter](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=FConverter&theme=dark)](https://github.com/BradleyG2004/FConverter)
+[![KATIKA](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=KATIKA&theme=dark)](https://github.com/BradleyG2004/KATIKA)
+[![MigrationCycle](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=MigrationCycle&theme=dark)](https://github.com/BradleyG2004/MigrationCycle)
+[![DocuWriter](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=DocuWriter&theme=dark)](https://github.com/BradleyG2004/DocuWriter)
+[![TaskerServer](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=TaskerServer&theme=dark)](https://github.com/BradleyG2004/TaskerServer)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BradleyG2004&show_icons=true&theme=radical)
