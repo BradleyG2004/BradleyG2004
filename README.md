@@ -12,32 +12,16 @@ I'm a developer with a knack for solving complex problems through code. Currentl
 
 ## Top Projects
 
+[![DocuWriter](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=DocuWriter&theme=dark)](https://github.com/BradleyG2004/DocuWriter)
+[![LoadBalancer](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=load-balancer&theme=dark)](https://github.com/BradleyG2004/load-balancer)
 [![FConverter](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=FConverter&theme=dark)](https://github.com/BradleyG2004/FConverter)
+[![DocuWriter](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=DocuWriter&theme=dark)](https://github.com/BradleyG2004/DocuWriter)
 [![KATIKA](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=KATIKA&theme=dark)](https://github.com/BradleyG2004/KATIKA)
 [![MigrationCycle](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=MigrationCycle&theme=dark)](https://github.com/BradleyG2004/MigrationCycle)
-[![DocuWriter](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=DocuWriter&theme=dark)](https://github.com/BradleyG2004/DocuWriter)
 [![TaskerServer](https://github-readme-stats.vercel.app/api/pin/?username=BradleyG2004&repo=TaskerServer&theme=dark)](https://github.com/BradleyG2004/TaskerServer)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BradleyG2004&show_icons=true&theme=radical)
-
-- **Public Repositories**: 38  
-- **Followers**: 1  
-- **Following**: 11
-
-## Recent Activity
-
-Here are some of my latest activities on GitHub:
-
-- Created [**Tasker**](https://github.com/BradleyG2004/Tasker) repository on 2025-08-31  
-- Updated [**KATIKA**](https://github.com/BradleyG2004/KATIKA) by pushing new changes on 2025-11-12  
-- Pushed updates to [**DocuWriter**](https://github.com/BradleyG2004/DocuWriter) on 2025-11-09  
-- Created a new branch 'GUI' for [**DocuWriter**](https://github.com/BradleyG2004/DocuWriter) on 2025-11-13  
-- Created [**MigrationCycle**](https://github.com/BradleyG2004/MigrationCycle) repository on 2025-11-12
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts to share. Stay tuned for future content!
 
 ## Connect with Me
 
