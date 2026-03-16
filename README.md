@@ -59,8 +59,6 @@ I'm a developer with a knack for solving complex problems through code. Currentl
 
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BradleyG2004&show_icons=true&theme=radical)
 
 ## Connect with Me
 
