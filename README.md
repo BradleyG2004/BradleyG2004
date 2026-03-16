@@ -18,6 +18,11 @@ I'm a developer with a knack for solving complex problems through code. Currentl
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ---
+[**Dépôt GitHub**](https://github.com/BradleyG2004/bigdata) | ETL : Mongo + Kafka + Spark + Grafana
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+---
 
 ### LoadBalancer
 
